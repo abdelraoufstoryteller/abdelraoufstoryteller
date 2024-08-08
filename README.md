@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android porjects, and share knowledge with the community.
 - 💬 Ask me about Software Architecture, Compose, KMM and Android.
 - 📫 How to reach me: you can reach out to me thorugh my [Main Profile](https://github.com/abd3lraouf)
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to play online games (COD MW3)
